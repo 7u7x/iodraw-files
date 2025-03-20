@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XYaI4H8XAuNYVuTX93uJ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="272.86" height="240" as="geometry" />
+          <mxGeometry x="255" y="70" width="272.86" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XYaI4H8XAuNYVuTX93uJ-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000066;" vertex="1" parent="1">
           <mxGeometry x="336.43" y="180" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XYaI4H8XAuNYVuTX93uJ-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="110" height="110" as="geometry" />
+          <mxGeometry x="130" y="290" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XYaI4H8XAuNYVuTX93uJ-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="110" height="110" as="geometry" />
+          <mxGeometry x="540" y="290" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XYaI4H8XAuNYVuTX93uJ-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000066;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="336.43" y="-40" width="110" height="110" as="geometry" />
