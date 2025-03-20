@@ -112,6 +112,9 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-61" value="CA-ETVS模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="650" width="520" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="700" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
