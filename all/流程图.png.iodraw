@@ -16,9 +16,13 @@
         <mxCell id="ZYEVisGLkDbbWz5VGNSd-12" value="外呼" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;size=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="190" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZYEVisGLkDbbWz5VGNSd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYEVisGLkDbbWz5VGNSd-14">
+        <mxCell id="ZYEVisGLkDbbWz5VGNSd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZYEVisGLkDbbWz5VGNSd-14" target="ZYEVisGLkDbbWz5VGNSd-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="275" />
+              <mxPoint x="220" y="455" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZYEVisGLkDbbWz5VGNSd-14" value="是否接通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
