@@ -75,8 +75,8 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-29" value="结束语" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="319.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UwdoOOqCH5l6DuotXZwy-32" value="是否接通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="390" width="80" height="50" as="geometry" />
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-32" value="QA覆盖" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="470" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
