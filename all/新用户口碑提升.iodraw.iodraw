@@ -43,11 +43,14 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-12" value="客服1.0" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="389.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwdoOOqCH5l6DuotXZwy-16" target="UwdoOOqCH5l6DuotXZwy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-16" value="是否存疑" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="450" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UwdoOOqCH5l6DuotXZwy-18" value="开场白" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="589.9999999999999" width="80" height="30" as="geometry" />
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-18" value="客服2.0" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="539.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
