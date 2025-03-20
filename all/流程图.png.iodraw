@@ -13,6 +13,11 @@
         <mxCell id="mTp6QxpTOPcBv0kxtmm2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-10" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZYEVisGLkDbbWz5VGNSd-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mTp6QxpTOPcBv0kxtmm2-2">
+          <mxGeometry x="-0.4019" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
         </mxCell>
@@ -75,9 +80,6 @@
         </mxCell>
         <mxCell id="mTp6QxpTOPcBv0kxtmm2-22" value="开场白" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mTp6QxpTOPcBv0kxtmm2-28" value="&lt;p&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;yes&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mTp6QxpTOPcBv0kxtmm2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-31" edge="1">
           <mxGeometry relative="1" as="geometry">
