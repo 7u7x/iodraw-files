@@ -118,6 +118,18 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-82" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="126.6" y="730" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="750" width="33.19148936170213" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-104" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="166.6" y="730" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="33.19148936170213" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-106" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="206.6" y="730" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
