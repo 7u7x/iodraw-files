@@ -94,9 +94,14 @@
         <mxCell id="ZYEVisGLkDbbWz5VGNSd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-19" target="mTp6QxpTOPcBv0kxtmm2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZYEVisGLkDbbWz5VGNSd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-19">
+        <mxCell id="ZYEVisGLkDbbWz5VGNSd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-19" target="mTp6QxpTOPcBv0kxtmm2-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="585" />
+              <mxPoint x="80" y="585" />
+              <mxPoint x="80" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mTp6QxpTOPcBv0kxtmm2-19" value="是否接通" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
