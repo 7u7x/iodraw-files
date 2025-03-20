@@ -103,6 +103,9 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-52" value="（常规、滥用、极限）3种场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="520" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-58" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
