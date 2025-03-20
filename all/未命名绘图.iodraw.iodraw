@@ -19,7 +19,7 @@
         <mxCell id="rKYX7cjD0pd8MrHiUVbn-9" value="动态体验" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="rKYX7cjD0pd8MrHiUVbn-12">
           <mxGeometry x="310.2985074626866" width="112.83582089552239" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rKYX7cjD0pd8MrHiUVbn-10" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="rKYX7cjD0pd8MrHiUVbn-12">
+        <mxCell id="rKYX7cjD0pd8MrHiUVbn-10" value="交付等待" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="rKYX7cjD0pd8MrHiUVbn-12">
           <mxGeometry x="517.1641791044776" width="112.83582089552239" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rKYX7cjD0pd8MrHiUVbn-11" value="成交促进" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="rKYX7cjD0pd8MrHiUVbn-12">
