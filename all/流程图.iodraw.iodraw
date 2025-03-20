@@ -106,8 +106,8 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-56" value="7种需求" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="585" width="520" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-59" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="650" width="50" height="30" as="geometry" />
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-59" value="整车&lt;div&gt;系统&lt;br&gt;&lt;div&gt;零部件&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
