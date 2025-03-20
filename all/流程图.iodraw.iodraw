@@ -31,6 +31,18 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-13" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;零部件级&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="390" width="80" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-14" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-15" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="vxZ5pdBBZGsVA_uIaYDw-14">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-16" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="vxZ5pdBBZGsVA_uIaYDw-14">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
