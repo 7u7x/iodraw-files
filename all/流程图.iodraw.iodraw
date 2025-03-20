@@ -199,6 +199,12 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-134" value="CA-PDS新能源汽车开发流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="252" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-135" value="CA-PDS新能源汽车开发流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-136" value="CA-PDS新能源汽车开发流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
