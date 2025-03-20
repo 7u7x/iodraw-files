@@ -52,7 +52,7 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-49" value="质量&lt;div&gt;信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vxZ5pdBBZGsVA_uIaYDw-51">
           <mxGeometry x="377.4193548387097" width="67.09677419354838" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vxZ5pdBBZGsVA_uIaYDw-51">
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-50" value="国内外标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vxZ5pdBBZGsVA_uIaYDw-51">
           <mxGeometry x="452.90322580645164" width="67.09677419354838" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-52" value="（常规、滥用、极限）3种场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
