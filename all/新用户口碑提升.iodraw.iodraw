@@ -37,11 +37,14 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-10" value="是否方便" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwdoOOqCH5l6DuotXZwy-12" target="UwdoOOqCH5l6DuotXZwy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-12" value="客服1.0" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="389.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-16" value="是否接通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="80" height="50" as="geometry" />
+          <mxGeometry x="240" y="450" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
