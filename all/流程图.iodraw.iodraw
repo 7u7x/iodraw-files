@@ -191,9 +191,9 @@
           <mxGeometry x="491" y="251" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-132" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;系统级&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="491" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="489" y="297" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-133" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;整车级&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-133" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;零部件级&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="491" y="350" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
