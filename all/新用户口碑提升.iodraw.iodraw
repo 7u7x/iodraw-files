@@ -75,6 +75,9 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-29" value="结束语" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="319.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-31" value="开场白" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="399.9999999999999" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
