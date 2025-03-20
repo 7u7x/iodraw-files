@@ -131,7 +131,7 @@
         <mxCell id="ZYEVisGLkDbbWz5VGNSd-63" value="兜底话术" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="480" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZYEVisGLkDbbWz5VGNSd-65" value="预约回电" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZYEVisGLkDbbWz5VGNSd-65" value="结束语" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="555" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
