@@ -7,6 +7,9 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwdoOOqCH5l6DuotXZwy-2" target="UwdoOOqCH5l6DuotXZwy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-2" value="外呼" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;size=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="80" height="30" as="geometry" />
         </mxCell>
@@ -15,6 +18,9 @@
         </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-5" value="是否接通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-7" value="开场白" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="189.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
