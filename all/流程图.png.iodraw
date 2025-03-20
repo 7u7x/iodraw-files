@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mTp6QxpTOPcBv0kxtmm2-19" value="是否接通" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="190" width="100" height="70" as="geometry" />
+          <mxGeometry x="170" y="200" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
