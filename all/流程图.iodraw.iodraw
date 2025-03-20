@@ -103,8 +103,8 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-52" value="（常规、滥用、极限）3种场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="520" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-58" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="370" y="340" width="20" height="520" as="geometry" />
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-56" value="7种需求" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="585" width="520" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
