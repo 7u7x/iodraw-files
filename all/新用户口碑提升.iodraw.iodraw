@@ -19,19 +19,6 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwdoOOqCH5l6DuotXZwy-5" target="UwdoOOqCH5l6DuotXZwy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UwdoOOqCH5l6DuotXZwy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UwdoOOqCH5l6DuotXZwy-5" target="UwdoOOqCH5l6DuotXZwy-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="195" />
-              <mxPoint x="160" y="625" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UwdoOOqCH5l6DuotXZwy-24" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UwdoOOqCH5l6DuotXZwy-23">
-          <mxGeometry x="-0.8633" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UwdoOOqCH5l6DuotXZwy-5" value="是否接通" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="80" height="50" as="geometry" />
         </mxCell>
