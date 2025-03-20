@@ -69,6 +69,9 @@
         <mxCell id="UwdoOOqCH5l6DuotXZwy-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;" vertex="1" parent="1">
           <mxGeometry x="240" y="690" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UwdoOOqCH5l6DuotXZwy-29" value="开场白" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="299.9999999999999" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
