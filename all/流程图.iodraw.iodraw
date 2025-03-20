@@ -55,7 +55,7 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-27" value="CA-ETVS模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.31851806640625;arrowSize=0.34285714285714286;" vertex="1" parent="1">
           <mxGeometry x="170" y="540" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
