@@ -28,11 +28,8 @@
         <mxCell id="vxZ5pdBBZGsVA_uIaYDw-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;整车级&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="340" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-11" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;整车级&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-13" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;整车级&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="390" width="80" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vxZ5pdBBZGsVA_uIaYDw-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="250" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
