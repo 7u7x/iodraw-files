@@ -86,11 +86,6 @@
             <mxPoint x="220" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZYEVisGLkDbbWz5VGNSd-3" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZYEVisGLkDbbWz5VGNSd-2">
-          <mxGeometry x="-0.4019" y="248" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZYEVisGLkDbbWz5VGNSd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTp6QxpTOPcBv0kxtmm2-19" target="mTp6QxpTOPcBv0kxtmm2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
