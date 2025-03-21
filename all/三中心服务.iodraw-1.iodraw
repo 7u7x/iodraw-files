@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XhgxJfH77vgRY3a6BsNL-1" value="销售线索" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;" vertex="1" parent="1">
+        <mxCell id="XhgxJfH77vgRY3a6BsNL-1" value="销售线索" style="rounded=1;whiteSpace=wrap;html=1;arcSize=39;fillColor=#19435c;" vertex="1" parent="1">
           <mxGeometry x="334.64" y="-210" width="113.57" height="44" as="geometry" />
         </mxCell>
         <mxCell id="XhgxJfH77vgRY3a6BsNL-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=31.67;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
